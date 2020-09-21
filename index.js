@@ -7,5 +7,21 @@ class Dog{
     this.sex=sex;
   }
 }
-class Cat{}
-class Bird{}
+class Cat{
+
+  constructor(name,age){
+    constructor(name,sex){
+      this.name=name;
+      this.age=age;
+    }
+
+  }
+}
+class Bird{
+   construcor(name,sex){
+
+     this.name=name;
+     this.sex=sex;
+   }
+
+}
