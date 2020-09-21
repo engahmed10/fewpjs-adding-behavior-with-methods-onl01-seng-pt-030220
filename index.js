@@ -9,13 +9,13 @@ class Dog{
 }
 class Cat{
 
-  constructor(name,age){
+
     constructor(name,sex){
       this.name=name;
       this.age=age;
     }
 
-  }
+  
 }
 class Bird{
    construcor(name,sex){
